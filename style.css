@@ -1,0 +1,182 @@
+.container{
+    display: flex;
+    width: auto;
+    height: auto;
+    background-color: white;
+}
+.header{
+    position: fixed !important;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    justify-content: space-between;
+    background-color: black;
+}
+.logo{
+    display: flex;
+    width: 210px;
+    height: 50px;
+margin: 20px 0px 0px 50px;
+font-weight: bold;
+color: white;
+font-style: oblique;
+font-family: cursive;
+font-size: 40px;
+}
+.logo:hover{
+    text-shadow: 2px 2px 2px white;
+}
+.a:hover{
+    text-shadow: 2px 2px 2px white;
+}
+.b:hover{
+    text-shadow: 2px 2px 2px white;
+}
+.linker{
+    display: flex;
+    width: 120px;
+    height: 30px;
+font-weight: bold;
+margin: 30px 250px 0px 0px;
+justify-content: space-between;
+}
+.a{
+    display: flex;
+    display: inline;
+    color: white;
+}
+.b{
+    display: flex;
+    display: inline;
+    color: white;
+}
+.banner{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(99, 90, 90);
+    color: white;
+
+}
+.tample{
+
+text-align: center;
+}
+.one{
+width: 100%;
+height: 400px;
+}
+.magna{
+    color: red;
+    margin: 100px 0px 0px 100px;
+}
+.magna1{
+    margin: 50px 100px 0px 100px;
+  
+}
+.tow{
+    display: flex;
+    width: 100%;
+    height: 300px;
+}
+.box1{
+    background-color: rgb(221, 218, 218);
+    display: flex;
+    width: 50%;
+    height: 300px;
+    border: 1px solid brown;
+    text-align: center;
+display: block;
+
+}
+.adipis{
+    color: red;
+    margin-top: 30px;
+}
+.lorem{
+    margin: 25px 50px 0px 50px;
+}
+.three{
+    display: flex;
+    width: 100%;
+    height: 450px;
+    justify-content: space-between;
+
+}
+.box2{
+    display: flex;
+    width: 33%;
+    height: 450px;
+    flex-direction: column;
+}
+.learn{
+    width: 70px;
+    height: 40px;
+    border: 1px solid red;
+    font-weight: bold;
+}
+.box-inner{
+    margin: 60px 0px 0px 50px;
+    width: 100px;
+    height: 50px;
+}
+.in-box{
+    border: 1px solid gainsboro;
+    width: 30px;
+    height: 35px;
+}
+.heading{
+margin: 20px 0px 0px 50px;
+    width: 380px;
+    height: 60px;
+    color: red;
+    display: inline;
+
+}
+.pera{
+margin: 20px 0px 0px 50px;
+    width: 350px;
+    height: 100px;
+}
+.four{ 
+    display: flex;
+    width: 100%;
+    height: 650px;
+    background-color: brown;
+    flex-direction: column;
+}
+.get{
+    width: 90%;
+    height: 70px;
+color: white;
+margin: 60px 0px 0px 80px;
+}
+.name{
+    display: flex;
+    width: 90%;
+    height: 70px;
+    margin: 60px 0px 0px 80px;
+    color: white;
+justify-content: row;
+}
+.input{
+    width: 50%;
+    height: 65px;
+}
+input{
+    width: 95%;
+    height: 25px;
+    padding: 5px;
+}
+.msg{
+    width: 90%;
+    height: 210px;
+    margin: 60px 0px 0px 80px;
+}
+textarea{
+    padding: 5px;
+}
+footer{
+    margin: 60px 0px 0px 80px;
+    color: white;
+    font-weight: bold;
+}
